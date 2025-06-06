@@ -1,0 +1,1 @@
+This is a personal project data scrapping from game files from the darkest dungeon. The data is built in dataframes with the intention to upload to a post gres database, for potential web use or analysis.
